@@ -25,3 +25,5 @@ Detta projekt är en To-Do List Management System som används för att göra de
 
 
 # Installation och Körning
+För att komma igång och köra applikationen behöver du klona projektet från GitHub genom att kopiera länken nedan:
+https://github.com/JohannaBredinger00/Avancerad-java-Johanna-Bredinger-slutprojekt.git
