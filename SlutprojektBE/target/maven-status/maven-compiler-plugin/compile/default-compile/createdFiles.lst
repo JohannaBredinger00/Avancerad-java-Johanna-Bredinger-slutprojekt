@@ -1,0 +1,4 @@
+org\example\demo\controllers\TaskController.class
+org\example\demo\Main.class
+org\example\demo\models\Task.class
+org\example\demo\DemoApplication.class
